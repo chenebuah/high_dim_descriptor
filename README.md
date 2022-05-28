@@ -12,4 +12,4 @@ In computational theoretical sciences, Machine Learning (ML) techniques are now 
 Keywords: Perovskite, Fourier transformation, Reciprocal crystal lattice, Energy band gap, Machine Learning
 
 
-![image](https://user-images.githubusercontent.com/74286898/170815967-92672944-89e9-4c33-a973-c083d5c4577f.png)
+       ![image](https://user-images.githubusercontent.com/74286898/170815967-92672944-89e9-4c33-a973-c083d5c4577f.png)
