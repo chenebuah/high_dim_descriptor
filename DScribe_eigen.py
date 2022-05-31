@@ -171,6 +171,6 @@ scaler_gen = MinMaxScaler()
 GF = np.asarray(scaler_gen.fit_transform(GF))
 
 # Concatenated periodic input descriptor
-x_cm = np.concatenate((GF,eigen_cm), axis=-1) #Coulomb matrix eigen representation 
-x_esm = np.concatenate((GF,eigen_esm), axis=-1) #Ewald-sum matrix eigen representation 
-x_sine = np.concatenate((GF,eigen_sine), axis=-1) #Sine matrix eigen representation
+x_cm = np.concatenate((GF,eigen_cm), axis=-1) #Coulomb matrix eigen representation with generalized features 
+x_esm = np.concatenate((GF,eigen_esm), axis=-1) #Ewald-sum matrix eigen representation with generalized features
+x_sine = np.concatenate((GF,eigen_sine), axis=-1) #Sine matrix eigen representation with generalized features
