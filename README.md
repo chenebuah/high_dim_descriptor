@@ -1,4 +1,4 @@
-# A feature engineering approach for predicting ternary perovskite properties by coupling convolutional neural network with light gradient boosting
+# A periodic feature engineering approach for predicting ternary perovskite properties by coupling a two-dimensional convolutional neural network with a light gradient boosting machine
 
 Authors: *Ericsson Tetteh Chenebuah, Michel Nganbe and Alain Beaudelaire Tchagang
 
