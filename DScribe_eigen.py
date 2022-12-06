@@ -1,12 +1,13 @@
 # -*- coding: utf-8 -*-
 
-# A Fourier-transformed feature engineering design for predicting ternary perovskite properties by coupling a two-dimensional convolutional neural network with a support vector machine (Conv2D-SVM)
+# A Fourier-transformed feature engineering design for predicting ternary perovskite properties by coupling a two-dimensional convolutional neural 
+# network with a support vector machine (Conv2D-SVM)
 
 # AUTHOR - (1) * Ericsson Chenebuah, (1) Michel Nganbe and (2) Alain Tchagang 
 # 1: Department of Mechanical Engineering, University of Ottawa, 75 Laurier Ave. East, Ottawa, ON, K1N 6N5 Canada
 # 2: Digital Technologies Research Centre, National Research Council of Canada, 1200 Montréal Road, Ottawa, ON, K1A 0R6 Canada
 # * email: echen013@uottawa.ca 
-# (28-May-2022)
+# (06-Dec-2022)
 
 """DScribe_eigen.py
 
