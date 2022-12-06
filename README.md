@@ -14,8 +14,9 @@ Digital Technologies Research Centre, National Research Council of Canada, 1200 
 Keywords: Perovskite, Fourier transformation, Convolutional Neural Network, Support Vector Machine, Energy bandgap.
 
 
+![graphical abstract](https://user-images.githubusercontent.com/74286898/206027625-0468accc-ab6d-44d6-9742-ecde00e41f55.jpeg)
 
-   ![image](https://user-images.githubusercontent.com/74286898/206027362-3337a51e-995e-4e9e-8c15-3af6804968eb.png)
+  
    
    
 This research was supported by the National Science and Engineering Research Council of Canada [NSERC Discovery Grant number: 210487-180599-2001]; and the National Research Council of Canada (NRC) through its Artificial Intelligence for Design Program led by the Digital Technologies Research Centre.
