@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# A feature engineering approach for modeling ternary perovskite target properties by Fourier transforming direct features into the periodic reciprocal crystal lattice 
+# A Fourier-transformed feature engineering design for predicting ternary perovskite properties by coupling a two-dimensional convolutional neural network with a support vector machine (Conv2D-SVM)
 
 # AUTHOR - (1) * Ericsson Chenebuah, (1) Michel Nganbe and (2) Alain Tchagang 
 # 1: Department of Mechanical Engineering, University of Ottawa, 75 Laurier Ave. East, Ottawa, ON, K1N 6N5 Canada
