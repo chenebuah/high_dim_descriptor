@@ -11,7 +11,7 @@ Digital Technologies Research Centre, National Research Council of Canada, 1200 
 
 # Graphical Abstract
 
-Keywords: Perovskite, Fourier transformation, Convolutional Neural Network, Support vector Machine, Energy bandgap.
+Keywords: Perovskite, Fourier transformation, Convolutional Neural Network, Support Vector Machine, Energy bandgap.
 
 
 
