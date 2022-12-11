@@ -20,9 +20,10 @@ Keywords: Perovskite, Fourier transformation, Convolutional Neural Network, Supp
 This research was supported by the National Science and Engineering Research Council of Canada [NSERC Discovery Grant number: 210487-180599-2001]; and the National Research Council of Canada (NRC) through its Artificial Intelligence for Design Program led by the Digital Technologies Research Centre.
 
 
-References
+# References
 
-[1]   "Z. Ren et al., Matter, 5(1), (2022), 314-335. https://doi.org/10.1016/j.matt.2021.11.032 /n"
+[1]   Z. Ren et al., Matter, 5(1), (2022), 314-335. https://doi.org/10.1016/j.matt.2021.11.032
+
 [2]   T. Xie and J.C. Grossman, Phys. Rev. Lett. 120(14), (2018), 145301. https://doi.org/10.1103/physrevlett.120.145301
 
 [3]   F. Faber et al., IJQC, 115, (2015), 1094-1101. https://doi.org/10.1002/qua.24917
